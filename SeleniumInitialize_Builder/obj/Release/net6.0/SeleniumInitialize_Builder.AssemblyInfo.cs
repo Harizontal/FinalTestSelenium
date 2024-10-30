@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumInitialize_Builder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16eddb30afc27e62377d28e2055327b086e1226b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d363365d33689fdd234f2f6db38a0f8f2d636d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumInitialize_Builder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumInitialize_Builder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
